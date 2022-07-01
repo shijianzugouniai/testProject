@@ -25,7 +25,7 @@ npm install
 启动服务:
 
 npm run serve
-在浏览器打开 http://localhost:8080 页面。
+在浏览器打开 http://localhost:8080 页面
 
 How to control
 电脑
